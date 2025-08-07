@@ -48,3 +48,20 @@ Prof. Harpreet Kaur, the Head of the Applied Science Department — which all fi
   - **Perseverance**
   - **Prayer**
 - She concluded by saying that when these 5 P’s are followed diligently, the 6th P — **Placement** — follows naturally.
+
+#### Session 5: Address by Dean Academics – Mr. Akshay
+
+Mr. Akshay, the Dean of Academics, shared valuable insights on how to shape ourselves during our academic journey. 
+
+- He introduced the concept of becoming a **T-shaped professional** — someone who has:
+  - **Deep knowledge** in one core area (the vertical line of the T), and
+  - **A broad set of soft skills** such as communication, leadership, and teamwork (the horizontal line of the T).
+- He encouraged us to explore beyond our technical field and develop interpersonal skills that are essential for success in the real world.
+
+#### Session 6: Talk by Prof. Harleen Kaur – Department of CSE
+
+Prof. Harleen Kaur from the Computer Science Department spoke about the values and culture of the institution.
+
+- She reminded us that **Guru Nanak Dev Engineering College is not just named after Guru Nanak Dev Ji — it embodies his spirit, values, and teachings**.
+- Her message highlighted the importance of compassion, discipline, and selfless service — principles that are deeply rooted in the college's environment.
+
