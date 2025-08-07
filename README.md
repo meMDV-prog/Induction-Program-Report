@@ -36,7 +36,7 @@ We assembled in the auditorium where the induction program officially began.
 
 #### Session 4: Talk by Prof. Harpreet Kaur – Head of Applied Sciences
 
-Prof. Harpreet Kaur, the Head of the Applied Science Department — which all first-year students are part of — addressed us with an inspiring talk.
+Prof. Harpreet Kaur, the Head of the Applied Science Department (which all first-year students are part of) addressed us with an inspiring talk.
 
 - She emphasized the importance of **independent thinking** as we transition from school to college life.
 - She described the **Applied Science Department** as a crucial bridge that helps students adapt to the college environment, both academically and mentally.
@@ -47,13 +47,13 @@ Prof. Harpreet Kaur, the Head of the Applied Science Department — which all fi
   - **Persistence**
   - **Perseverance**
   - **Prayer**
-- She concluded by saying that when these 5 P’s are followed diligently, the 6th P — **Placement** — follows naturally.
+- She concluded by saying that when these 5 P’s are followed diligently, the 6th P: **Placement** follows naturally.
 
 #### Session 5: Address by Dean Academics – Mr. Akshay
 
 Mr. Akshay, the Dean of Academics, shared valuable insights on how to shape ourselves during our academic journey. 
 
-- He introduced the concept of becoming a **T-shaped professional** — someone who has:
+- He introduced the concept of becoming a **T-shaped professional**, someone who has:
   - **Deep knowledge** in one core area (the vertical line of the T), and
   - **A broad set of soft skills** such as communication, leadership, and teamwork (the horizontal line of the T).
 - He encouraged us to explore beyond our technical field and develop interpersonal skills that are essential for success in the real world.
@@ -62,6 +62,6 @@ Mr. Akshay, the Dean of Academics, shared valuable insights on how to shape ours
 
 Prof. Harleen Kaur from the Computer Science Department spoke about the values and culture of the institution.
 
-- She reminded us that **Guru Nanak Dev Engineering College is not just named after Guru Nanak Dev Ji — it embodies his spirit, values, and teachings**.
-- Her message highlighted the importance of compassion, discipline, and selfless service — principles that are deeply rooted in the college's environment.
+- She reminded us that **Guru Nanak Dev Engineering College is not just named after Guru Nanak Dev Ji but it embodies his spirit, values, and teachings**.
+- Her message highlighted the importance of compassion, discipline, and selfless service principles that are deeply rooted in the college's environment.
 
