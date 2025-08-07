@@ -6,11 +6,11 @@ This report provides a summary of my experience during the induction program at 
 
 ## Day 1
 
-### 8:30 AM – 9:30 AM: Spiritual Start
+### 8:30 AM – 10:00 AM: Spiritual Start
 
 Our first day as freshers began with a peaceful visit to the college Gurudwara Sahib. We offered prayers to seek blessings for our journey ahead. It was a calm and respectful start to our college life.
 
-### 9:30 AM – 10:30 AM: Refreshments
+### 10-00 AM - 10:45 AM: Refreshments
 
 After the prayer session, we were provided with snacks and refreshments by the college. This gave us an opportunity to relax and interact with fellow students.
 
